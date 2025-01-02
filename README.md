@@ -40,5 +40,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimmohamedta/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%23000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hashimdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ha._shim_) 
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech.
