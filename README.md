@@ -1,4 +1,4 @@
-# Hi there, I'm HashimCodeDev! 👋
+# Hi there, I'm Hashim Mohamed T A 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and building innovative projects. Here you'll find a showcase of my work, interests, and contributions to the open-source community.
 
