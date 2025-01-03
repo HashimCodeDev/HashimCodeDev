@@ -1,4 +1,4 @@
-# Hi there, I'm Hashim Mohamed T A 👋
+# Hi there, I'm Hashim Mohamed T A <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and building innovative projects. Here you'll find a showcase of my work, interests, and contributions to the open-source community.
 
@@ -29,12 +29,21 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
+<table align="center" style="border-collapse: collapse; padding: 20px; border: none;">
+  <tr>
+    <td style="border: none;">
+      <img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=HashimCodeDev&show_icons=true&theme=radical">
+    </td>
+    <td style="border: none;">
+      <img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashimCodeDev&layout=compact&theme=radical">
+    </td>
+  </tr>
+</table>
 
-![HashimCodeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashimCodeDev&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HashimCodeDev&theme=dracula)
+<img src="https://github-profile-trophy.vercel.app/?username=HashimCodeDev&theme=dracula"/>
 
 ## 📫 Connect with Me
 
