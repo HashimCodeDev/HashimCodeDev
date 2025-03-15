@@ -3,19 +3,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🌟 About Me:
-I'm a passionate **full-stack developer** and **ethical hacking enthusiast**, always eager to build and break things to understand them better. 
-Currently exploring **AI/ML** and working on impactful tech solutions. 
-I specialize in **Java, JavaScript, Python, React, Next.js, Spring Boot, PostgreSQL**, and more.
+<div align=center>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;AI%2FML+Enthuasiast)](https://git.io/typing-svg)
+</div>
 
-> Building tech, one commit at a time. 
+![GitHub followers](https://img.shields.io/github/followers/HashimCodeDev?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/HashimCodeDev?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=HashimCodeDev&style=for-the-badge&logo=github" alt="" />
 
-Contact: **hashimmohammed212@gmail.com**
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture>
 
-![](https://komarev.com/ghpvc/?username=hashim-javaDev&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tech Stack</b> 
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <br>
@@ -28,19 +29,39 @@ Contact: **hashimmohammed212@gmail.com**
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-<table align="center" style="border-collapse: collapse; padding: 20px; border: none;">
-  <tr>
-    <td style="border: none;">
-      <img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=HashimCodeDev&show_icons=true&theme=radical">
-    </td>
-    <td style="border: none;">
-      <img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashimCodeDev&layout=compact&theme=radical">
-    </td>
-  </tr>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<!--- stats & Trophy (start) -->
+
+<p align="center">
+ 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <br><br>
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HashimCodeDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+
+  <br><br>
+
+  <img  align="center"  src="https://github-readme-streak-stats-ten-steel-92.vercel.app?user=HashimCodeDev&theme=midnight-purple" />
+
+  <br>
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HashimCodeDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+  
+</tr>
 </table>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🏆 GitHub Trophies
 <div align='center'>
