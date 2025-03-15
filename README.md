@@ -1,32 +1,32 @@
-# Hi there, I'm Hashim Mohamed T A <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Hi 👋, I'm Hashim Mohamed T.A</h1>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding and building innovative projects. Here you'll find a showcase of my work, interests, and contributions to the open-source community.
+# 🌟 About Me:
+I'm a passionate **full-stack developer** and **ethical hacking enthusiast**, always eager to build and break things to understand them better. 
+Currently exploring **AI/ML** and working on impactful tech solutions. 
+I specialize in **Java, JavaScript, Python, React, Next.js, Spring Boot, PostgreSQL**, and more.
 
-## 🚀 About Me
+> Building tech, one commit at a time. 
 
-- 🌱 I’m currently learning **AI/ML**.
-- 📫 How to reach me: **hashimmohammed212@gmail.com**
-- ⚡ Fun fact: **I once built a project during a 24-hour hackathon after winning a spot as a finalist!**
+Contact: **hashimmohammed212@gmail.com**
 
-## 💻 Tech Stack
+![](https://komarev.com/ghpvc/?username=hashim-javaDev&color=447ff7&label=Visitor+count)
 
-- **Languages:** 
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  
-- **Frameworks and Libraries:**
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  
-- **Databases:**
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **DevOps & Cloud:**
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimmohamedta/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashim-javaDev)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 <table align="center" style="border-collapse: collapse; padding: 20px; border: none;">
@@ -39,16 +39,20 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
     </td>
   </tr>
 </table>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
-
+<div align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=HashimCodeDev&theme=dracula"/>
+</div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Connect with Me
+### ✍️ Random Dev Quote
+<div align='center'>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimmohamedta/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%23000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hashimdev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ha._shim_) 
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
