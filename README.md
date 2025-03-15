@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **React.Js**.
+- 🌱 I’m currently learning **AI/ML**.
 - 📫 How to reach me: **hashimmohammed212@gmail.com**
 - ⚡ Fun fact: **I once built a project during a 24-hour hackathon after winning a spot as a finalist!**
 
