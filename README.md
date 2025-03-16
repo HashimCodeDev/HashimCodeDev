@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <div style="display: flex; align-items: center;"> <img src="https://media.giphy.com/media/gX0dsOUA4qs3ZzyngU/giphy.gif?cid=790b7611uvb241a1khknikq16yhcmdq7hux1uh8m5z7g3hxa&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"><b style="margin-left: 5px; vertical-align:bottom">About Me</b></div>
+## <div style="display: flex; align-items: center;"> <img src="https://media.giphy.com/media/U6e6JUgqF684qSunZ2/giphy.gif?cid=790b76119i7kl7fsjbrcpu3g96m3pr956eu51rursqiz1c7m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"><b style="margin-left: 5px; top:50px">About Me</b></div>
 <div align=center>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;AI%2FML+Enthuasiast)](https://git.io/typing-svg)
