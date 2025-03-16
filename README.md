@@ -62,6 +62,13 @@
 </tr>
 </table>
 
+<img src="https://github.com/HashimCodeDev/HashimCodeDev/blob/output/github-snake-dark.svg"  alt="github contribution grid snake animation" >
+
+<br>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## 🏆 GitHub Trophies
 <div align='center'>
@@ -69,6 +76,8 @@
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ### ✍️ Random Dev Quote
 <div align='center'>
