@@ -64,8 +64,6 @@
 
   <br><br>
 
-  <img  align="center"  src="https://github-readme-streak-stats-ten-steel-92.vercel.app?user=HashimCodeDev&theme=midnight-purple" />
-
   <br>
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
