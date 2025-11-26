@@ -60,10 +60,10 @@
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
   <br><br>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HashimCodeDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats-one-wine-16.vercel.app/api?username=HashimCodeDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
   <br><br>
-
+  [![GitHub Streak](https://github-readme-streak-stats-tan-two-93.vercel.app?user=HashimCodeDev&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br>
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
